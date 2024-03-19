@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Suroi15 (suroi mod)
 
 ### Other 
-- Minecraft Redstone is a programming language
+- Minecraft redstone is a programming language
 - I play three instruments
 - I love unicorns and classical music
 - Do not try lego fortnite
