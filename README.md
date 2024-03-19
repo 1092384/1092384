@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ### Other 
 - I play three instruments
 - I love classical music
+- Do not try lego fortnite
