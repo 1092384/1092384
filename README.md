@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
+he/she
 <!--
 **1092384/1092384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Projects
+- Suroi
+- Suroi wiki
+- Suroi15 (suroi mod)
+
+### Other 
+- I play three instruments
+- I love classical music
