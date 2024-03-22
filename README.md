@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Online Projects
-- Suroi
-- Suroi wiki
-- Suroi15 (suroi mod)
+- [Suroi](https://github.com/HasangerGames/suroi)
+- [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
+- [Suroi15 (Suroi Fork)](https://github.com/Compositr/suroi15)
 
 ### Music Projects
 - Quartet No. 1 in E flat Major
