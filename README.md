@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - Quartet No. 1 in E flat Major
 
 ### Other 
+- Beethoven's 6th Symphony is S tier
 - Minecraft redstone is a programming language
 - I play three instruments
 - I love unicorns and classical music
 - Do not try lego fortnite
+- Don't bully femboys
