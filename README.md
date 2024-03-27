@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - I love unicorns and classical music
 - Do not try lego fortnite
 - Don't bully femboys
+- 💙💜💛🧡🩵
