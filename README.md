@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1092384&show_icons=true&theme=nord)
 ### Online Projects
 - [Suroi](https://github.com/HasangerGames/suroi)
 - [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
