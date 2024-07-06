@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Online Projects
+### Projects
 - [Suroi](https://github.com/HasangerGames/suroi)
-- [Suroi Wiki](https://github.com/HasangerGames/suroi-wiki)
-- [Suroi15 (Suroi Fork)](https://github.com/Compositr/suroi15)
-
-### Music Projects
-- Quartet No. 1 in E flat Major
 
 ### Other 
-- Beethoven's 6th Symphony is S tier
 - Minecraft redstone is a programming language
-- I play three instruments
-- I love unicorns and classical music
 - Do not try lego fortnite
-- Don't bully femboys
+- Please don't bully femboy ToT
 - 💙💜💛🧡🩵
